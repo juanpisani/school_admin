@@ -1,4 +1,3 @@
-# Use the latest Python 3.12 slim image
 FROM --platform=linux/amd64 python:3.12.9-slim-bookworm
 
 # Set the working directory inside the container
